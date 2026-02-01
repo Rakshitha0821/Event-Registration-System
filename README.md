@@ -1,6 +1,6 @@
 # Online Event Registration System
 
-## 📌 Project Overview
+## Project Overview
 The Online Event Registration System is a Java-based application developed to manage and simplify the process of event registrations in a college or small organization.  
 The system allows users to view available events and register for them, while administrators can manage event details.
 
@@ -8,7 +8,7 @@ This project is developed as a **student-level application** using core programm
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - To provide a simple platform for event registration
 - To apply Java OOPS concepts in a real-world scenario
 - To understand database connectivity using JDBC
@@ -17,7 +17,7 @@ This project is developed as a **student-level application** using core programm
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Programming Language:** Java (Core Java)
 - **Frontend:** HTML, CSS
 - **Database:** MySQL
@@ -27,7 +27,7 @@ This project is developed as a **student-level application** using core programm
 
 ---
 
-## 🧠 Concepts Implemented
+## Concepts Implemented
 ### Java OOPS Concepts
 - Classes and Objects
 - Encapsulation
@@ -43,7 +43,7 @@ This project is developed as a **student-level application** using core programm
 
 ---
 
-## 👥 User Roles
+## User Roles
 ### 1. User
 - Register and login
 - View available events
@@ -56,4 +56,4 @@ This project is developed as a **student-level application** using core programm
 
 ---
 
-## 🗂️ Project Structure
+
