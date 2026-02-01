@@ -1,0 +1,39 @@
+
+---
+
+## Database Design
+### Tables Used
+- **users** – stores user and admin details
+- **events** – stores event information
+- **registrations** – maps users to events
+
+Relationships are maintained using **foreign keys** to ensure data integrity.
+
+---
+
+## How to Run the Project
+1. Install Java (JDK 8 or above)
+2. Install MySQL and create the database using `database.sql`
+3. Update database credentials in `DBConnection.java`
+4. Import the project into an IDE (Eclipse / IntelliJ)
+5. Run `MainApp.java`
+
+---
+
+## Future Enhancements
+- Password encryption
+- Email confirmation for event registration
+- Role-based dashboards
+- Migration to Spring Boot
+- Improved UI with JavaScript
+
+---
+
+## Learning Outcome
+Through this project, I gained hands-on experience with Java OOPS concepts, JDBC, MySQL database operations, and basic web development using HTML and CSS.
+
+---
+
+## Developed By
+## Rakshitha 
+Student Project – Academic Purpose
